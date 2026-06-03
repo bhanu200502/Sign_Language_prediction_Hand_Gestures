@@ -1,0 +1,53 @@
+# ==========================
+# Virtual Environments
+# ==========================
+kenv/
+.venv/
+venv/
+env/
+
+# ==========================
+# Python Cache
+# ==========================
+__pycache__/
+_pycache-/
+*.py[cod]
+*$py.class
+
+# ==========================
+# Jupyter
+# ==========================
+.ipynb_checkpoints/
+
+# ==========================
+# Dataset Files
+# ==========================
+data/
+dataset/
+datasets/
+train/
+test/
+validation/
+
+# ==========================
+# Trained Models
+# ==========================
+models/
+*.h5
+*.keras
+*.pkl
+*.joblib
+*.pt
+*.pth
+
+# ==========================
+# NumPy & Data Files
+# ==========================
+*.npy
+*.npz
+*.csv
+
+# ==========================
+# VS Code
+# ==========================
+.vscode/
